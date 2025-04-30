@@ -7,7 +7,8 @@ Graduate-BE(CSE) 2025 Batch || UI/UX Designer || Java developer || SQL
 - ⚡ Fun fact: I bridge both worlds - Java development and UI/UX Design.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kriswebdev) 
-<br /> [HACKERRANK](https://www.hackerrank.com/profile/krisgoblins) 
+  <!-- [HACKERRANK](https://www.hackerrank.com/profile/krisgoblins) -->
+  <br/><span style="background-color: black"><a href="https://www.hackerrank.com/profile/krisgoblins">HACKERRANK</a></span> 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
